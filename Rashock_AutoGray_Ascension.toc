@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Rashock_AutoGray Ascension
+## Notes: Auto-sells grey items when talking to a merchant.
+## Author: Rashock
+## Version: 1.0
+
+Rashock_AutoGray_Ascension.lua
