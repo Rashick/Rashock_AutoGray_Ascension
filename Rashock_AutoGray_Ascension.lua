@@ -19,6 +19,8 @@ local ALWAYS_SELL_BY_NAME = {
     ["Homemade Cherry Pie"] = true,
     ["Dried King Bolete"] = true,
     ["Nightcrawlers"] = true, 
+    ["Fine Aged Cheddar"] = true,
+    
 }
 
 local function FormatMoney(copperTotal)
@@ -103,4 +105,5 @@ end)
 
 frame:RegisterEvent("PLAYER_LOGIN")
 frame:RegisterEvent("MERCHANT_SHOW")
+
 
